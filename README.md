@@ -11,7 +11,7 @@
 
 ## 🌐 Online Platform
 
-**➡️ [http://egfr-mutsentry.com/](http://egfr-mutsentry.com/)**
+**➡️ [http://www.egfr-mutsentry.com/](http://www.egfr-mutsentry.com/)**
 
 ---
 
