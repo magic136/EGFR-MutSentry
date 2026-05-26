@@ -11,7 +11,7 @@
 
 ## 🌐 Online Platform
 
-**➡️ [http://danbioinfo.tech/egfr-mutsentry/](http://danbioinfo.tech/egfr-mutsentry/)**
+**➡️ [http://egfr-mutsentry.com/](http://egfr-mutsentry.com/)**
 
 ---
 
