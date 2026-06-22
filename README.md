@@ -100,7 +100,7 @@ Key structural domains analyzed: **αC-helix**, **activation loop (A-loop)**, **
 
 If you use EGFR-MutSentry in your research, please cite:
 
-> Li, P., Wang, D., Liu, M. et al. *An EGFR-MutSentry Guided Prospective Personalized TKI Selection in NSCLC based on Topographic Mapping of Emerging Pathogenic EGFR Mutants.* Manuscript submitted to *Nature Methods* (2026).
+> Li, P., Wang, D., Liu, M. et al. *An EGFR-MutSentry Guided Prospective Personalized TKI Selection in NSCLC based on Topographic Mapping of Emerging Pathogenic EGFR Mutants.* Manuscript submitted to *Journal of Thoracic Oncology* (2026).
 
 You may also include in your Methods/Acknowledgments section:
 
